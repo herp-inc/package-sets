@@ -259,6 +259,28 @@
     "repo": "https://github.com/sharkdp/purescript-colors.git",
     "version": "v5.0.0"
   },
+  "config2": {
+    "dependencies": [
+      "either",
+      "exists",
+      "freeap",
+      "foldable-traversable",
+      "functors",
+      "integers",
+      "leibniz",
+      "lists",
+      "maybe",
+      "newtype",
+      "node-process",
+      "prelude",
+      "strings",
+      "validation",
+      "effect",
+      "ordered-collections"
+    ],
+    "repo": "https://github.com/justinwoo/purescript-config2.git",
+    "version": "v0.1.0"
+  },
   "console": {
     "dependencies": [
       "effect",
@@ -846,6 +868,14 @@
     ],
     "repo": "https://github.com/purescript/purescript-lcg.git",
     "version": "v2.0.0"
+  },
+  "leibniz": {
+    "dependencies": [
+      "prelude",
+      "unsafe-coerce"
+    ],
+    "repo": "https://github.com/paf31/purescript-leibniz.git",
+    "version": "v5.0.0"
   },
   "lists": {
     "dependencies": [
