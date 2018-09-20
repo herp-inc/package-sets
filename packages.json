@@ -1616,6 +1616,16 @@
     "repo": "https://github.com/purescript/purescript-semirings.git",
     "version": "v5.0.0"
   },
+  "sentry-raven": {
+    "dependencies": [
+      "prelude",
+      "simple-json",
+      "test-unit",
+      "functions"
+    ],
+    "repo": "https://github.com/adamczykm/purescript-sentry-raven.git",
+    "version": "v0.2.0"
+  },
   "signal": {
     "dependencies": [
       "aff",
